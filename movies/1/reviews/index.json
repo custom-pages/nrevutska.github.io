@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "reviewer": "Andy",
+        "reviewer": "Anna",
         "rating": 10
     },
     {
@@ -11,12 +11,12 @@
     },
     {
         "id": 3,
-        "reviewer": "Bridget",
+        "reviewer": "Brett",
         "rating": 8
     },
     {
         "id": 4,
-        "reviewer": "Tommy",
+        "reviewer": "Stephen",
         "rating": 9
     }
 ]
